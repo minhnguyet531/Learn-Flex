@@ -17,6 +17,10 @@ h2 {
   font-size: 16px;
 }
 
+ion-icon:hover {
+  cursor: pointer;
+}
+
 /* ==== Header ==== */
 .header {
   position: absolute;
@@ -327,6 +331,7 @@ h2 {
   -ms-transform: scale(1.2);
   -o-transform: scale(1.2);
 }
+
 .cow-face {
   width: 90%;
   background-color: #1a1c33;
